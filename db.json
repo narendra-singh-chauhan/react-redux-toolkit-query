@@ -1,0 +1,67 @@
+{
+  "user": {
+    "firstName": "Narendra",
+    "lastName": "Singh",
+    "email": "ns.codelink@gmail.com",
+    "mobileNumber": "+91 6378949412",
+    "gender": "Male",
+    "designation": "Mern Stack Developer"
+  },
+  "todos": [
+    {
+      "id": 4,
+      "title": "Read a book",
+      "isActive": false
+    },
+    {
+      "id": 5,
+      "title": "Watch a movie",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "title": "Go for a walk",
+      "isActive": false
+    },
+    {
+      "id": 7,
+      "title": "Buy groceries",
+      "isActive": true
+    },
+    {
+      "id": 8,
+      "title": "Clean the house",
+      "isActive": true
+    },
+    {
+      "id": 9,
+      "title": "Take a nap",
+      "isActive": false
+    },
+    {
+      "id": 10,
+      "title": "Finish the project",
+      "isActive": false
+    },
+    {
+      "title": "Add RTK",
+      "isActive": true,
+      "id": 11
+    },
+    {
+      "title": "New Todo",
+      "isActive": true,
+      "id": 12
+    },
+    {
+      "title": "Go home",
+      "isActive": false,
+      "id": 13
+    },
+    {
+      "title": "Go office",
+      "isActive": false,
+      "id": 14
+    }
+  ]
+}
